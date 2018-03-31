@@ -1,13 +1,6 @@
 
-# coding: utf-8
-
-# In[1]:
-
-
 import math
 from textblob import TextBlob
-
-
 
 docx1 = TextBlob("""NASA to explore how 3-year Mars mission could affect humans WASHINGTON: As a round-trip mission to Mars could last three years, NASA is calling for more research to understand how long-term experiences in space could affect the human body.
 Typical missions to the International Space Station (ISS) last just six months. "To draw any conclusions about the cumulative effects of exposure to space, we need to observe more astronauts spending larger amounts of time in the space environment," said John Charles of the Human Research Programme at NASA's Johnson Space Center.
